@@ -1,3 +1,5 @@
+
+<!-- Test -->
 @extends('layouts.app')
 @section('title', 'About Us')
 
@@ -57,7 +59,7 @@
                     ['foto' => 'foto1.jpg', 'nama' => 'Timotius March Saputra', 'nim' => '987654321'],
                     ['foto' => 'foto2.jpg', 'nama' => 'Krisna Adi Kusuma', 'nim' => '456789123'],
                     ['foto' => 'foto3.jpg', 'nama' => 'Sinta Yunika', 'nim' => '321654987'],
-                    ['foto' => 'foto4.jpg', 'nama' => 'Ni Kadek Widiani', 'nim' => '159753468'],
+                    ['foto' => 'foto4.jpg', 'nama' => 'Ni Ketut Widiani', 'nim' => '159753468'],
                 ];
             @endphp
 
